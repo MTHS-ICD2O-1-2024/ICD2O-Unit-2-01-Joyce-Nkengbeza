@@ -4,5 +4,5 @@
 // Created on: Feb 2025
 // This file contains the JS functions for index.html
 function myButtonClicked () {
-  alert('Hello, World!')
+  document.getElementById("answer").innerHTML = "Hello, World!"
 }
